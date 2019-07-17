@@ -1,1 +1,1 @@
-web: java -jar target/springboot-1.0.jar
+web: java -jar target/hello.jar
