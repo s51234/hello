@@ -1,1 +1,1 @@
-web: java -jar target/Sample.jar
+web: java -jar target/hello-0.0.1-SNAPSHOT.jar
